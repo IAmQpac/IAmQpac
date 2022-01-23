@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IAmQpac
-- 👀 I’m interested in Java and Web Applications 
-- 🌱 I’m currently learning Java, Web Dev (HTML,CSS,PHP,Bootstramp) and C++ 
-- 💞️ I’m looking to collaborate on Web Applications (specifically interested in the domain of finance).
+- 👀 I’m interested in Web Applications 
+- 🌱 I’m currently learning Web Dev (HTML,CSS, JS, Node.js) 
+- 💞️ I’m looking to collaborate on Web Applications (specifically interested in the domain of finance and WEB3).
 - 📫 Send me an Email at christianjerjian@gmail.com
 
 <!---
