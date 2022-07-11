@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IAmQpac
+- 👋 Hi, I’m Christian
 - 👀 I’m interested in Web Applications 
 - 🌱 I’m currently learning Web Dev (HTML,CSS, JS, Node.js) 
 - 💞️ I’m looking to collaborate on Web Applications (specifically interested in the domain of finance and WEB3).
